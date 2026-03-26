@@ -1,0 +1,7 @@
+
+
+const removeDuplicate = (nums, t) => {
+
+}
+
+console.log(removeDuplicate([0,1,2,2,3,0,4,2], 2));
